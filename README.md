@@ -2,7 +2,7 @@
 
 > Repositorio gratuito, progresivo y en español para aprender **inglés orientado a la programación** desde nivel cero hasta nivel nativo profesional.
 
-🔗 Repositorio: https://github.com/yetsin7/curso-de-ingles-para-programadores
+🔗 Repositorio: https://github.com/yetsin7/Curso-de-Ingles-para-programadores
 
 ---
 
@@ -157,8 +157,8 @@ Este libro no se limita a memorizar vocabulario. Busca que puedas:
 Solo necesitas Git instalado. Una vez clonado, puedes estudiar sin conexión.
 
 ```bash
-git clone https://github.com/yetsin7/curso-de-ingles-para-programadores.git
-cd curso-de-ingles-para-programadores
+git clone https://github.com/yetsin7/Curso-de-Ingles-para-programadores.git
+cd Curso-de-Ingles-para-programadores
 ```
 
 Abre los archivos con tu editor favorito (VS Code, por ejemplo) o léelos directamente desde GitHub.
@@ -177,4 +177,4 @@ Este libro es y seguirá siendo gratis. La mejor forma de apoyarlo es ayudando a
 
 Cada estrella, cada compartida y cada contribución empuja la misión de que más nicaragüenses puedan trabajar como programadores profesionales a nivel internacional.
 
-🔗 Repositorio: https://github.com/yetsin7/curso-de-ingles-para-programadores
+🔗 Repositorio: https://github.com/yetsin7/Curso-de-Ingles-para-programadores
