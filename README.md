@@ -6,7 +6,7 @@
 
 ## Documentacion de referencia
 
-Consulta [DOCUMENTACION-OFICIAL.md](./DOCUMENTACION-OFICIAL.md) para apoyar el
+Consulta [Documentación-Ingles-para-programadores.md](./Documentación-Ingles-para-programadores.md) para apoyar el
 curso con diccionarios, guias de estilo y recursos tecnicos confiables.
 
 ---
