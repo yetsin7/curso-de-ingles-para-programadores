@@ -1,4 +1,4 @@
-# 📘 Libro de Inglés para Programadores — De cero a NATIVO
+# 📘 Curso de Inglés para Programadores — De cero a NATIVO
 
 > Repositorio gratuito, progresivo y en español para aprender **inglés orientado a la programación** desde nivel cero hasta nivel nativo profesional.
 
@@ -37,7 +37,7 @@ Este recurso es **100% gratuito**, **no requiere registro** y se puede estudiar 
 
 ## 📖 ¿Qué es esto?
 
-El **Libro de Inglés para Programadores** es una colección de lecciones organizadas como un libro técnico interactivo. Su meta es que puedas leer, escuchar, pronunciar y escribir inglés técnico con confianza real.
+El **Curso de Inglés para Programadores** es una colección de lecciones organizadas como un libro técnico interactivo. Su meta es que puedas leer, escuchar, pronunciar y escribir inglés técnico con confianza real.
 
 - Explicaciones detalladas en **español**
 - Vocabulario técnico real del mundo de la programación
@@ -45,7 +45,7 @@ El **Libro de Inglés para Programadores** es una colección de lecciones organi
 - Ejemplos con código real
 - Ejercicios prácticos con soluciones
 
-Está diseñado para acompañar al **Libro de Flutter**, **Libro de JavaScript** y **Libro de Python** del mismo autor.
+Está diseñado para acompañar al **Curso de Flutter**, **Curso de JavaScript** y **Curso de Python** del mismo autor.
 
 ---
 
