@@ -4,6 +4,11 @@
 
 🔗 Repositorio: https://github.com/yetsin7/Curso-de-Ingles-para-programadores
 
+## Documentacion de referencia
+
+Consulta [DOCUMENTACION-OFICIAL.md](./DOCUMENTACION-OFICIAL.md) para apoyar el
+curso con diccionarios, guias de estilo y recursos tecnicos confiables.
+
 ---
 
 ## 🇳🇮 Para programadores de Nicaragua (y de toda Latinoamérica)
